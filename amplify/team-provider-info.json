@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ytchatweb-dev-20244-authRole",
+      "UnauthRoleArn": "arn:aws:iam::093096238363:role/amplify-ytchatweb-dev-20244-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::093096238363:role/amplify-ytchatweb-dev-20244-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ytchatweb-dev-20244-deployment",
+      "UnauthRoleName": "amplify-ytchatweb-dev-20244-unauthRole",
+      "StackName": "amplify-ytchatweb-dev-20244",
+      "StackId": "arn:aws:cloudformation:us-east-1:093096238363:stack/amplify-ytchatweb-dev-20244/eab12b10-adc7-11ed-ab77-0e54d7a53ba5",
+      "AmplifyAppId": "d11pvdjw7bzyhy"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d11pvdjw7bzyhy",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
